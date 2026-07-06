@@ -1,129 +1,81 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "name": "Patrick Fernandes",
+  "photo": "https://raw.githubusercontent.com/o-patrick/js-developer-portfolio/self/data/imgs/my-photo.png",
+  "job": "Desenvolvedor Web na Data Motion",
+  "location": "São Paulo - SP",
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "name": "C#",
+        "logo": "https://raw.githubusercontent.com/o-patrick/js-developer-portfolio/self/data/imgs/csharp.png"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/o-patrick/js-developer-portfolio/self/data/imgs/python.png"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/o-patrick/js-developer-portfolio/self/data/imgs/angular.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/o-patrick/js-developer-portfolio/self/data/imgs/js.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/o-patrick/js-developer-portfolio/self/data/imgs/git.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/o-patrick/js-developer-portfolio/self/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
-      "Comunicação",
       "Empatia",
-      "Poder de Sedução Imcomparável"
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
     ]
   },
-  "idiomas": [
-    {
-      "nome": "Português",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Básico"
-    }
-  ],
-  "educacao": [
-    {
-      "nome": "dio.me",
-      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "2019",
-        "fim": "Atualmente"
-      },
-      "certificados": [
-        {
-          "nome": "Formação: Blockchain Specialist (25h)",
-          "link": "https://www.dio.me/certificate/28601B02"
-        },
-        {
-          "nome": "Curso: Desenvolvimento Mobile Nativo Para Android",
-          "link": "https://www.dio.me/certificate/07041B99"
-        },
-        {
-          "nome": "Curso: Componentes, Layouts e UI/UX Em Apps Android",
-          "link": "https://www.dio.me/certificate/F12AC30B"
-        },
-        {
-          "nome": "Curso: Java e Kotlin Juntos!? Construindo Apps Android",
-          "link": "https://www.dio.me/certificate/3FB20BF1"
-        },
-        {
-          "nome": "Curso: Explorando o Firebase Para Apps Android Resiliente",
-          "link": "https://www.dio.me/certificate/BA099F34"
-        }
-      ]
-    },
-    {
-      "nome": "Doutorado em Engenharia de Software",
-      "descricao": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2018",
-        "fim": "Atualmente"
-      }
-    },
-    {
-      "nome": "Mestrado em Engenharia de Software",
-      "descricao": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2012",
-        "fim": "2015"
-      }
-    },
-    {
-      "nome": "Bacharelado em Engenharia de Computação",
-      "descricao": "",
-      "instituicao": "Universidade de Araraquara (UNIARA)",
-      "periodo": {
-        "inicio": "2007",
-        "fim": "2011"
-      }
-    }
+  "languages": [
+    "Português BR",
+    "Inglês (fluente)",
+    "Mandarim (iniciante)",
+    "Coreano (iniciante)"
   ],
   "portfolio": [
     {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+      "name": "Curso Ministrado na DIO para a criação de uma Pokédex",
+      "url": "https://github.com/o-Patrick/js-developer-pokedex",
+      "github": true
     },
     {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfólio",
+      "url": "https://github.com/o-Patrick/js-developer-portfolio",
+      "github": true
+    },
+    {
+      "name": "TCC para o curso de Técnico em Informática da ETEC Lauro Gomes",
+      "url": "https://github.com/o-Patrick/ensinadev",
+      "github": true
+    }
+    {
+      "name": "API para o Projeto Integrador I da Univesp",
+      "url": "https://github.com/o-Patrick/ensinadev",
+      "github": true
     }
   ],
-  "experiencias": [
+  "professionalExperience": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
+      "name": "Desenvolvedor Web / Data Motion",
+      "period": "2024 - até o momento",
+      "description": "Desenvolvimento focado no back-end com .Net, mas com aplicações front-end com Angular"
+    },
+    {
+      "name": "Suporte de TI / Yuhuu!",
+      "period": "2024 - 2024",
+      "description": "Suporte de nível I ao cliente com atendimento direto"
     }
   ]
 }
