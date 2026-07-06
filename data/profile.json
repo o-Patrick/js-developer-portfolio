@@ -1,6 +1,6 @@
 {
   "name": "Patrick Fernandes",
-  "photo": "https://raw.githubusercontent.com/o-patrick/js-developer-portfolio/self/data/imgs/my-photo.png",
+  "photo": "https://raw.githubusercontent.com/o-patrick/js-developer-portfolio/self/assets/img/my-photo.png",
   "job": "Desenvolvedor Web na Data Motion",
   "location": "São Paulo - SP",
   "skills": {
@@ -62,7 +62,7 @@
     },
     {
       "name": "API para o Projeto Integrador I da Univesp",
-      "url": "https://github.com/o-Patrick/ensinadev",
+      "url": "https://github.com/o-Patrick/ConectaCEU_MiddlewareServices",
       "github": true
     }
   ],
