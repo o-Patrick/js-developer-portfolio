@@ -46,6 +46,11 @@
   ],
   "portfolio": [
     {
+      "name": "API para o Projeto Integrador I da Univesp",
+      "url": "https://github.com/o-Patrick/ConectaCEU_MiddlewareServices",
+      "github": true
+    },
+    {
       "name": "Curso Ministrado na DIO para a criação de uma Pokédex",
       "url": "https://github.com/o-Patrick/js-developer-pokedex",
       "github": true
@@ -59,18 +64,13 @@
       "name": "TCC para o curso de Técnico em Informática da ETEC Lauro Gomes",
       "url": "https://github.com/o-Patrick/ensinadev",
       "github": true
-    },
-    {
-      "name": "API para o Projeto Integrador I da Univesp",
-      "url": "https://github.com/o-Patrick/ConectaCEU_MiddlewareServices",
-      "github": true
     }
   ],
   "professionalExperience": [
     {
       "name": "Desenvolvedor Web / Data Motion",
       "period": "2024 - até o momento",
-      "description": "Desenvolvimento focado no back-end com .Net, mas com aplicações front-end com Angular"
+      "description": "Desenvolvimento focado no back-end com .Net, mas com aplicações front-end em Angular"
     },
     {
       "name": "Suporte de TI / Yuhuu!",
