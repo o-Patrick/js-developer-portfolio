@@ -11,14 +11,6 @@ function updateProfileInfo(profileData) {
 
   const location = document.getElementById('profile.location')
   location.innerText = profileData.location
-
-  const phone = document.getElementById('profile.phone')
-  phone.innerText = profileData.phone
-  phone.href = `tel:${profileData.phone}`
-
-  const email = document.getElementById('profile.email')
-  email.innerText = profileData.email
-  email.href = `mailto:${profileData.email}`
 }
 
 function updateSoftSkills(profileData) {
@@ -32,7 +24,6 @@ function updateHardSkills(profileData) {
 }
 
 function updateLanguages(profileData) {
-  console.log(profileData)
   const languages = document.getElementById('profile.languages')
   languages.innerHTML = profileData.languages.map(language => `<li>${language}</li>`).join('')
 }
